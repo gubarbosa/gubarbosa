@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%1060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
   </details>
   
@@ -43,6 +43,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gubarbosa&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubarbosa&hide=TeX&theme=tokyonight&layout=compact" /> 
 </p>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **gubarbosa/gubarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
