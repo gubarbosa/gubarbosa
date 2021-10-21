@@ -9,7 +9,35 @@
 - ⚡  I don't know ride a bike👋 <br> <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-barbosa-espindula//)](https://www.linkedin.com/in/gustavo-barbosa-espindula/)
+[![Gmail Badge](https://img.shields.io/badge/-gugabarbosa.bsi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gugabarbosa.bsi@gmail.com)](mailto:gugabarbosa.bsi@gmail.com)
 
+<details>
+  <summary>🚀💻 Technologies & Tools</summary>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</details>
+
+<details>
+  <summary>👨‍💻 Workspace Spec</summary>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%1060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+  </details>
+  
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"> <h2>⚡</g-emoji> Status </h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gubarbosa&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
