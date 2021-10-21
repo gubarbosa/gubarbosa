@@ -4,8 +4,9 @@
 - 🌱 I do Bachelor's degree in information systems and I'm learning Python, C and Java
 - 👯 I can help you in Python.
 - 🤔 I look for help to improve my english and learn Java.
-- ⚡  I don't know ride a bike👋
+- ⚡  I don't know ride a bike👋 <br> <br>
 
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"> <h2>⚡</g-emoji> Status </h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gubarbosa&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubarbosa&hide=TeX&theme=tokyonight&layout=compact" /> 
