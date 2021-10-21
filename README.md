@@ -9,7 +9,7 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gubarbosa&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubarbosa&hide=TeX&theme=tokyonight&layout=compact" /> 
-<\>
+</p>
 <!--
 **gubarbosa/gubarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
