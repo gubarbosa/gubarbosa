@@ -6,7 +6,9 @@
 - 🤔 I look for help to improve my english and learn Java.
 - ⚡  I don't know ride a bike👋 <br> <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-barbosa-espindula//)](https://www.linkedin.com/in/gustavo-barbosa-espindula/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-barbosa-espindula //)](https://www.linkedin.com/in/gustavo-barbosa-espindula/) -->
+
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-barbosa-espindula" alt="Linkedin" href="https://www.linkedin.com/in/gustavo-barbosa-espindula/" target="_blank">
 
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"> <h2>⚡</g-emoji> Status </h2>
 <p align="center">
